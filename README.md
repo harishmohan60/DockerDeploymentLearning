@@ -1,2 +1,2 @@
 # DockerDeployment
-Examples of Docker deployments
+Examples of Docker deployments (restful API)
